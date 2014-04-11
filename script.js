@@ -1,10 +1,11 @@
 
 
-
 function testReturn (one, two) {
 
 	return one + two;
 
 }
 
-console.log(testReturn(11,140));
+// ultrabasics,
+// in order to actually 'see' anything
+// try console.log(testReturn(2,100));
